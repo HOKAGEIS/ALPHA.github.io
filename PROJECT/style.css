@@ -1,0 +1,18 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+    font-family: "Pionr-TYGRA";
+  
+    src: url("./fonts/15211.woff") format("woff"), /* Modern Browsers */
+      url("./fonts/15211.woff2") format("woff2"); /* Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
+  }
+  /* font converted using font-converter.net. thank you! */
+@font-face {
+    font-family: "Pionr-TYGRA";
+  
+    src: url("./fonts/VisbyRoundCF-HeavyOblique.woff") format("woff"), /* Modern Browsers */
+      url("./fonts/VisbyRoundCF-HeavyOblique.woff2") format("woff2"); /* Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
+  }
